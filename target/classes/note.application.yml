@@ -1,0 +1,9 @@
+server:
+  port: 8087
+  context-path: /priest
+defaultTitle: 这是一部没上映的电影
+defaultActor: 待定
+defaultMovie: "电影名: ${defaultTitle}, 演员: ${defaultActor}"
+movie: 
+  title: 这是一部没上映的电影
+  actor: 待定

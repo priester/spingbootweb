@@ -1,7 +1,0 @@
-com\priest\controller\MoviesController.class
-com\priest\dto\Movie.class
-note\priest\controller\NOTEMoviesController.class
-com\priest\BootstrapMavenApplication.class
-note\priest\controller\MovieProperties.class
-note\priest\application\BootstrapMavenApplication2.class
-note\priest\controller\ExampleController.class

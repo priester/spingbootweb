@@ -1,13 +1,9 @@
 package com.priest.dto;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-
-@Entity
+//@Entity
 public class Movie {
-	@Id
-	@GeneratedValue
+//	@Id
+//	@GeneratedValue
 	private String title;
 	private String time;
 	private String diretor;
